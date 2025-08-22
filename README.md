@@ -33,26 +33,24 @@ We trained a **Machine Learning model** to predict taxi fares in New York City, 
 
 ---
 
-## ⚙️ Run Locally
+## ⚙️ Setup
 
-Follow these steps to run the app on your machine:
+### Git clone the project
+```bash
+git clone https://github.com/Marxi7/taxifare-website.git
+cd taxifare-website
+```
 
-1. **Clone the repo**
-   ```bash
-   git clone https://github.com/Marxi7/taxifare-website.git
-   cd taxifare-website
+### Install dependencies
+```bash
+pip install -r requirements.txt
+```
 
-2. **Install dependencies**
-  ```bash
-    pip install -r requirements.txt
+### Run the app
+```bash
+streamlit run app.py
+```
 
-
-3. **Run the app**
-    ```bash
-    streamlit run app.py
-
-
-## Stay in touch
-
-- First deployed ML project from the Le Wagon Bootcamp
-- Author - [Marcello](https://github.com/Marxi7)
+### 👤 Stay in Touch
+📌 First deployed ML project from the Le Wagon Bootcamp
+✍️ Author - [Marcello](https://github.com/Marxi7)
