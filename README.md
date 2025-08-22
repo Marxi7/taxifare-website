@@ -52,7 +52,7 @@ Follow these steps to run the app on your machine:
     streamlit run app.py
 
 
-👨‍💻 Author
+## Stay in touch
 
-Built with ❤️ by Marcello
-First deployed ML project from the Le Wagon Bootcamp
+- First deployed ML project from the Le Wagon Bootcamp
+- Author - [Marcello](https://github.com/Marxi7)
